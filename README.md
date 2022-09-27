@@ -1,3 +1,5 @@
 # TugasAkhir
 Program Tugas Akhir
-Bisa dimulai dengan melakukan running yang mana saja karena tidak mempengaruhi satu sama lain
+1. Running Program mulai dari NN.
+2. Running program ke 2, ke 3, dan seterusnya tidak harus berurutan.
+2. untuk running program yang lain, dilakukan sesuai instruksi yang terdapat pada NN.ipymb
